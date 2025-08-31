@@ -14,7 +14,7 @@ The dataset consists of skin lesion images across four categories:
 - 🐵 **Monkeypox** – 279 images  
 - ✅ **Normal** – 293 images  
 
-Data augmentation techniques such as **rotation** and **zooming** were applied to balance and expand the dataset.  
+Data augmentation techniques such as **rotation** and **zooming** were applied to balance and expand the dataset to 979 images.  
 
 ---
 
@@ -41,7 +41,7 @@ Evaluation metrics include:
 - 📊 **Confusion Matrix**  
 - 📑 **Classification Report** (Precision, Recall, F1-score)  
 
-✅ Achieved **90% accuracy** on test data.  
+✅ Achieved **96% accuracy** on test data.  
 
 ---
 
